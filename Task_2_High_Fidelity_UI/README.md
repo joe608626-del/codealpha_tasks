@@ -14,7 +14,7 @@ Design Tool
 
 Prototype
 
-Figma Prototype Link: https://www.figma.com/proto/EdEFY2YPnbja7H98WISq3m/Task_2_High_fidelity_UI?node-id=0-1&t=LE7Lz06OnAsOFKtE-1
+Figma Prototype Link: https://www.figma.com/proto/EdEFY2YPnbja7H98WISq3m/Task_2_High_fidelity_UI?node-id=3-14&t=LE7Lz06OnAsOFKtE-1
 
 UI Screens Included
 
